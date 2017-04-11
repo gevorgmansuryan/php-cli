@@ -8,7 +8,7 @@
 ## Installation (using composer)
 
 ```bash
-composer require gevman/cli
+composer require gevman/interactive-cli
 ```
 
 ## Class `Gevman\Cli\Cli`
