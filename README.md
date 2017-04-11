@@ -1,8 +1,8 @@
 # PHP Interactive CLI support
 
-[![Latest Stable Version](https://poser.pugx.org/gevman/cli/v/stable?format=flat-square)](https://packagist.org/packages/gevman/cli)
-[![Latest Unstable Version](https://poser.pugx.org/gevman/cli/v/unstable?format=flat-square)](https://packagist.org/packages/gevman/cliv)
-[![License](https://poser.pugx.org/gevman/cli/license?format=flat-square)](https://packagist.org/packages/gevman/cli)
+[![Latest Stable Version](https://poser.pugx.org/gevman/interactive-cli/v/stable?format=flat-square)](https://packagist.org/packages/gevman/interactive-cli)
+[![Latest Unstable Version](https://poser.pugx.org/gevman/interactive-cli/v/unstable?format=flat-square)](https://packagist.org/packages/gevman/interactive-cli)
+[![License](https://poser.pugx.org/gevman/interactive-cli/license?format=flat-square)](https://packagist.org/packages/gevman/interactive-cli)
 
 
 ## Installation (using composer)
