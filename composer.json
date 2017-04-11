@@ -1,0 +1,21 @@
+{
+    "name": "gevman/cli",
+    "description": "PHP interactive CLI",
+    "keywords": ["Command Line", "Command Line Interface", "Interactive", "CLI", "Interactive CLI"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gevorg Mansuryan",
+            "email": "gevorgmansuryan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gevman\\Cli\\": "src/"
+        }
+    }
+}
