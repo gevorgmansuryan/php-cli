@@ -1,5 +1,5 @@
 {
-    "name": "gevman/php-cli",
+    "name": "gevman/interactive-cli",
     "description": "PHP interactive CLI",
     "keywords": ["Command Line", "Command Line Interface", "Interactive", "CLI", "Interactive CLI"],
     "type": "library",
